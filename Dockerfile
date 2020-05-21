@@ -15,4 +15,3 @@ RUN \
   apt-get update && \
   apt-get install sbt && \
   sbt sbtVersion
-  echo "small change"
